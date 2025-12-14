@@ -1,0 +1,38 @@
+# Virtual environments
+venvml/
+.venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# IDEs and OS files
+.vscode/
+.DS_Store
+
+# Environment files
+.env
+
+# Model and data (change if you want to keep data in repo)
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+*.log
+
+# Misc
+*.sqlite3
