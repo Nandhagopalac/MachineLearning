@@ -27,7 +27,6 @@ pip-wheel-metadata/
 .env
 
 # Model and data (change if you want to keep data in repo)
-*.pkl
 *.h5
 *.joblib
 
